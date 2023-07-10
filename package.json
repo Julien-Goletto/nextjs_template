@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "next": "latest",
+    "next-auth": "^4.22.1",
     "react": "latest",
     "react-dom": "latest",
     "react-hook-form": "^7.45.1",
